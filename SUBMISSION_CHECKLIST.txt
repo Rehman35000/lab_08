@@ -1,0 +1,16 @@
+SMART CAMPUS ASSIGNMENT 2 — SUBMISSION CHECKLIST
+
+[ ] Run `flutter pub get`
+[ ] Run `flutter analyze` and resolve any issues
+[ ] Run the app on an Android emulator or phone
+[ ] Test Student login: student / student123
+[ ] Test Teacher login: teacher / teacher123
+[ ] Test Admin login: admin / admin123
+[ ] Register a new user and test the login
+[ ] Test wrong password and empty form validation
+[ ] Test logout and back-navigation behaviour
+[ ] Capture real screenshots of login, registration, student dashboard, teacher dashboard
+[ ] Put screenshots in the screenshots folder
+[ ] Add your own name, roll number, course and teacher details if required
+[ ] Review the report and ensure the references match your institution's required citation style
+[ ] Submit the report and source code as instructed in GCR
